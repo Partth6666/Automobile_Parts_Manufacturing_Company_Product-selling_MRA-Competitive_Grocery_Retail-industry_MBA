@@ -1,4 +1,5 @@
 # Automobile_Parts_Manufacturing_Company_Product-selling_MRA-Competitive_Grocery_Retail-industry_MBA
+# Customer Buying Patterns & Revenue Boost: Auto Parts & Grocery
 The project has two parts, each with 45 marks. Please go through the problem statements below.
 
 # Part - A
